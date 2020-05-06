@@ -1,0 +1,8 @@
+*.exe
+go.sum
+.vscode
+*.xls
+*.csv
+*.xlsx
+*.log
+*.txt
