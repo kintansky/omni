@@ -1,6 +1,0 @@
-*.exe
-go.sum
-.vscode
-*.xls
-*.csv
-*.xlsx

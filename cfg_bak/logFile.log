@@ -1,2 +1,0 @@
-time="2020-03-13T13:59:18+08:00" level=error msg="dial tcp 188.4.117.211:22: i/o timeout" data=188.4.117.211 event=pingAndParse key=GDFOS-MA-IPMAN-SW01-CC-HW topic="failed to login"
-time="2020-03-13T13:59:18+08:00" level=error msg="dial tcp 188.4.117.51:22: i/o timeout" data=188.4.117.51 event=pingAndParse key=GDFOS-MA-IPMAN-SW01-BJ-HW topic="failed to login"
