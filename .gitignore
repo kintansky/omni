@@ -1,6 +1,6 @@
 *.exe
 go.sum
 .vscode
-.xls
-.csv
-.xlsx
+*.xls
+*.csv
+*.xlsx
